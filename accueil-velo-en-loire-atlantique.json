@@ -58,29 +58,7 @@
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
   },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "4b4c754a830f7edf52c323ea9a60153cf5f5ac7a",
-    "fields": {
-      "raison_sociale": "Monsieur et Madame DELANOE Michel et Ginette",
-      "clas_label_1": "3 \u00e9pis",
-      "tel_1": "06 09 90 17 45",
-      "velodyssee": "oui",
-      "type_1": "Meubl\u00e9s et G\u00eetes",
-      "longitude": -1.6624861,
-      "label_1": "G\u00eetes de France",
-      "acc_velo": "oui",
-      "vil": "LA CHEVALLERAIS",
-      "mel_1": "delanoe.ginette@orange.fr",
-      "latitude": 47.4621186,
-      "cp": "44810",
-      "geo": "Canal de Nantes \u00e0 Brest et Pays de Redon",
-      "id": 42,
-      "adr_1": "Lapp\u00e9",
-      "web_1": "http://www.gite-chevallerais.com"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
+ 
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "e4f0e1fb66375fd11fc20ab194c2b1641daade9e",
@@ -109,33 +87,7 @@
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
   },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "0281e053d4ba8f717198ce644e2aa0980ea55fdd",
-    "fields": {
-      "fax_1": "02 40 79 10 25",
-      "raison_sociale": "Madame HECAUD Madeleine",
-      "clas_label_1": "2 \u00e9pis",
-      "description_descriptif_tarifs": "A partir de 45 euros",
-      "capacite_pers": "5",
-      "tel_1": "02 40 79 10 25",
-      "description_descriptif_capacite": "2 chambre(s) 5 personnes",
-      "capacite_cham": "2",
-      "longitude": -1.7690838,
-      "tarif1_1": "Tarif de base : de 45 \u00e0 0",
-      "acc_velo": "oui",
-      "type_1": "Chambre d'h\u00f4tes",
-      "vil": "BLAIN",
-      "latitude": 47.4678187,
-      "description_descriptif_ouvertures": "Ouvert de mars \u00e0 octobre. Hors saison sur r\u00e9servation",
-      "cp": "44130",
-      "geo": "Canal de Nantes \u00e0 Brest et Pays de Redon",
-      "id": 23,
-      "adr_1": "Le Gravier",
-      "label_1": "G\u00eetes de France"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
+  
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "91f343b15fc3e9958bd06a6b1dc71e60e2037637",
@@ -233,38 +185,7 @@
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
   },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "a3b9cf210b0b53e757c7b2a6af025d11825a429f",
-    "fields": {
-      "description_descriptif_tarifs": "A partir de 57 euros",
-      "langue_1": "anglais",
-      "adr_1": "La Rouaudais",
-      "velodyssee": "oui",
-      "description_descriptif_capacite": "2 chambre(s) 6 personnes",
-      "vil": "BLAIN",
-      "tarif1_1": "Tarif de base : de 57 \u00e0 0",
-      "acc_velo": "oui",
-      "capacite_cham": "2",
-      "cp": "44130",
-      "id": 27,
-      "clas_label_1": "3 \u00e9pis",
-      "tel_2": "06 66 79 00 89",
-      "tel_1": "02 40 51 35 38",
-      "latitude": 47.467714,
-      "capacite_pers": "6",
-      "description_descriptif_ouvertures": "Ouvert toute l'ann\u00e9e",
-      "geo": "Ch\u00e2teaubriant et environs",
-      "web_1": "www.lenidomer.fr",
-      "raison_sociale": "M/Mme OYER Dominique et Eric",
-      "type_1": "Chambre d'h\u00f4tes",
-      "longitude": -1.8623072999999999,
-      "mel_1": "contact@lenidomer.fr",
-      "cheque_vavances": "oui,",
-      "label_1": "G\u00eetes de France"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
+  
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "ef27aba7140ea462f5a2f796e950b82340e66cbc",
@@ -617,23 +538,7 @@
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
   },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "45ad2371349662808852744edcdb3c6aa6c49497",
-    "fields": {
-      "raison_sociale": "LE NIDOUILLET - Madame Josiane BERARD",
-      "clas_label_1": "1 \u00e9toile",
-      "tel_1": "02 40 77 63 64",
-      "velodyssee": "oui",
-      "description_descriptif_capacite": "Studio - 5 personnes",
-      "longitude": -1.5330759999999999,
-      "acc_velo": "oui",
-      "mel_1": "gitelenidouillet@gmail.com",
-      "latitude": 47.400898,
-      "id": 46
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
+  
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "218f9b2c35df773c62cdcf666d6e3cdae6557a9a",
@@ -661,38 +566,6 @@
       "type_1": "Chambre d'h\u00f4tes",
       "longitude": -1.4688786999999999,
       "mel_1": "contact@longere-du-plessis.com",
-      "label_1": "G\u00eetes de France"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "d91b8da9011ca178385856f496e59bba175c20a3",
-    "fields": {
-      "description_descriptif_tarifs": "A partir de 52 euros",
-      "adr_2": "Village la Brosse",
-      "adr_1": "6 chemin du Bois Rivaux",
-      "velodyssee": "oui",
-      "description_descriptif_capacite": "1 chambre(s) 4 personnes",
-      "vil": "LA CHAPELLE-SUR-ERDRE",
-      "tarif1_1": "Tarif de base : de 52 \u00e0 0",
-      "acc_velo": "oui",
-      "capacite_cham": "1",
-      "cp": "44240",
-      "id": 16,
-      "clas_label_1": "2 \u00e9pis",
-      "tel_2": "06 74 33 63 98",
-      "tel_1": "02 40 29 74 38",
-      "latitude": 47.3323513,
-      "capacite_pers": "4",
-      "description_descriptif_ouvertures": "Ouvert toute l'ann\u00e9e",
-      "geo": "Nantes et environs",
-      "web_1": "www.lepredelalande.fr",
-      "raison_sociale": "Madame VACHON Marie-Claude",
-      "type_1": "Chambre d'h\u00f4tes",
-      "longitude": -1.5658469,
-      "mel_1": "marie-claude.vachon@orange.fr",
-      "cheque_vavances": "oui,",
       "label_1": "G\u00eetes de France"
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
@@ -1188,29 +1061,6 @@
   },
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "815270c1ff096fa56727f37710284964e6a9584c",
-    "fields": {
-      "raison_sociale": "Christine CHARRIER",
-      "clas_label_1": "3 \u00e9pis",
-      "tel_1": "06 86 96 02 80",
-      "velodyssee": "oui",
-      "type_1": "Chambre d'h\u00f4tes",
-      "longitude": -2.097348,
-      "label_1": "G\u00eetes de France",
-      "acc_velo": "oui",
-      "vil": "PORNIC",
-      "mel_1": "contact@labelleverte-pornic.com",
-      "latitude": 47.158139,
-      "cp": "44210",
-      "geo": "Pornic et Pays de Retz",
-      "id": 40,
-      "adr_1": "Le Tabier",
-      "web_1": "www.labelleverte-pornic.com"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "b78026839db68c4168929fdcc93419db07bf75cb",
     "fields": {
       "fax_1": "02 51 82 34 66",
@@ -1300,30 +1150,7 @@
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
   },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "87037a8db5b89fd4012849417b9e9a2343094dce",
-    "fields": {
-      "raison_sociale": "Sylvie PINEL",
-      "tel_1": "06 70 04 45 09",
-      "velodyssee": "oui",
-      "description_descriptif_capacite": "8 personnes",
-      "tarif1_2": "Week-end (meubl\u00e9) : de 150 \u00e0",
-      "longitude": -1.4979133,
-      "tarif1_1": "Nuit\u00e9e (meubl\u00e9) : de 8 \u00e0 10",
-      "acc_velo": "oui",
-      "type_1": "Meubl\u00e9s et G\u00eetes",
-      "vil": "HERIC",
-      "mel_1": "bsmlpinel@wanadoo.fr",
-      "latitude": 47.4371668,
-      "cp": "44810",
-      "geo": "Canal de Nantes \u00e0 Brest et Pays de Redon",
-      "id": 45,
-      "adr_1": "La Heurtaudais",
-      "web_1": "http://pagesperso-orange.fr/gite-des-hirondelles/"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
+  
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "84e6a3ddd37e7b21faec7258c22cea8a14eecf92",

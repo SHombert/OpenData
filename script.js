@@ -1,13 +1,13 @@
 
-var lat = 47.232740;
-var lon = -1.239692;
+var lat = 47.218371;
+var lon = -1.553621;
 var macarte = null;
 
 
 // Fonction d'initialisation de la carte
 function initMap() {
         // Créer l'objet de map et l'insèrer dans l'élément HTML qui a l'ID "map"
-        myMap = L.map('map').setView([lat, lon], 10);
+        myMap = L.map('map').setView([lat, lon], 10.5);
         // on précise quelle carte on utilise
         L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
                 // on cite la source
