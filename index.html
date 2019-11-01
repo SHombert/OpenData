@@ -11,26 +11,64 @@
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
                 integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
                 crossorigin="" />
+        <link rel = "stylesheet" href = "bootstrap.css"/>
 
         <title>Open Data</title>
 </head>
 
 <body>
-        <div class="container-fluid margin">
-                <div class="row" >
-                                <div class="col-sm">
-                                                <div id="map" class="z-depth-1-half map-container" style="height: 700px"></div>
-                                </div>   
+
+
+
+        <nav class="navbar navbar-expand-lg navbar-inverse" role="navigation">
+
+                <a class="navbar-brand" href="#">Ma Loire à Vélo</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                                <li class="nav-item active">
+                                        <a class="nav-link" href="#">Les établissements vélos<span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item">
+                                        <a class="nav-link" href="#">Contact et Références</a>
+                                </li>
+
+                                <li class="nav-item">
+                                        <a class="nav-link" href="#" tabindex="-1"
+                                                aria-disabled="true">Sitographie</a>
+                                </li>
+                        </ul>
+
                 </div>
-                
-                
+        </nav>
+
+        <div class="container">
+                <div class="container-fluid margin">
+                        <div class="row">
+                                <div class="col-sm-2"></div>
+                                <div class="col-sm">
+                                        <div id="map" class="z-depth-1-half map-container" style="height: 700px"></div>
+                                </div>
+                        </div>
+
+
+                </div>
+
+
+
         </div>
-        
+
+
 
 
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 
-      
+
 
         <script type="text/javascript" src="script.js"></script>
 

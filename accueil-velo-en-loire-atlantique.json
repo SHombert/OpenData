@@ -417,29 +417,7 @@
     },
     "record_timestamp": "2018-05-28T20:12:53.457+02:00"
   },
-  {
-    "datasetid": "793866443_accueil-velo-en-loire-atlantique",
-    "recordid": "eada19daaea4bfab77cc50c9677bfba768dd810c",
-    "fields": {
-      "raison_sociale": "Monsieur et Madame DELANOE Michel et Ginette",
-      "clas_label_1": "3 \u00e9pis",
-      "tel_1": "06 09 90 17 45",
-      "velodyssee": "oui",
-      "type_1": "Meubl\u00e9s et G\u00eetes",
-      "longitude": -1.6624861,
-      "label_1": "G\u00eetes de France",
-      "acc_velo": "oui",
-      "vil": "LA CHEVALLERAIS",
-      "mel_1": "delanoe.ginette@orange.fr",
-      "latitude": 47.4621186,
-      "cp": "44810",
-      "geo": "Canal de Nantes \u00e0 Brest et Pays de Redon",
-      "id": 41,
-      "adr_1": "Lapp\u00e9",
-      "web_1": "http://www.gite-chevallerais.com"
-    },
-    "record_timestamp": "2018-05-28T20:12:53.457+02:00"
-  },
+ 
   {
     "datasetid": "793866443_accueil-velo-en-loire-atlantique",
     "recordid": "91d6ba84db001cfc745eac2fd116aba234f6ef16",
