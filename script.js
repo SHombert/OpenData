@@ -14,7 +14,7 @@ function initMap() {
                 maxZoom: 20
         }).addTo(myMap);
         addCircuitLoireVelo(myMap);
-        addAccueilVelo();
+        addAccueilVelo(myMap);
         
 
 
@@ -39,12 +39,17 @@ function addCircuitLoireVelo(map){
 
 }
 
-function addAccueilVelo(){
+function addAccueilVelo(map){
         $.getJSON("accueil-velo-en-loire-atlantique.json", function(datas){
                 $.each(datas, function (key,val){
-                        $.each(val, function(key,val1){
-                                console.log("Val : ", val1);    
-                        });
+                        var lat = val.fields.latitude;
+                                var long = val.fields.longitude;
+                       
+                                console.log(lat, "  ", long)
+                
+                               var marker = L.marker([lat,long]).addTo(map);
+                                 
+                     
                        // console.log("Val : ", val);
                 });
 
